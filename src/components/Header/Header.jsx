@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import logo from '../../assets/Logo.png'
 
 const Header = () => {
@@ -15,9 +15,9 @@ const Header = () => {
     return (
         <div className="navbar bg-base-100 w-11/12 mx-auto">
             <div className="flex-1">
-                <a className="btn btn-ghost text-xl">
+                <Link className="btn btn-ghost text-xl" to='/'>
                     <img className='w-64 h-16' src= {logo} alt="" />
-                </a>
+                </Link>
             </div>
             <div className="flex-none">
                 <ul className="menu menu-horizontal px-1 ">
