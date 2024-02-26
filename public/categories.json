@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "category": "Health",
+    "title": "First Aid Kit",
+    "image": "first_aid_kit.jpg",
+    "description": "A compact first aid kit containing essential medical supplies for emergencies.",
+    "color": "#1ABC9C",
+    "background_color": "#a7e9d6"
+  },
+  {
+    "id": 2,
+    "category": "Health",
+    "title": "Multivitamins",
+    "image": "multivitamins.jpg",
+    "description": "A daily supplement providing essential vitamins and minerals for overall health.",
+    "color": "#1ABC9C",
+    "background_color": "#a7e9d6"
+  },
+  {
+    "id": 3,
+    "category": "Education",
+    "title": "Educational Books Set",
+    "image": "educational_books_set.jpg",
+    "description": "A set of educational books covering various subjects for self-study or classroom use.",
+    "color": "#3498DB",
+    "background_color": "#a6c9f1"
+  },
+  {
+    "id": 4,
+    "category": "Education",
+    "title": "STEM Learning Kit",
+    "image": "stem_learning_kit.jpg",
+    "description": "A kit containing materials and instructions for hands-on STEM (Science, Technology, Engineering, Mathematics) experiments.",
+    "color": "#3498DB",
+    "background_color": "#a6c9f1"
+  },
+  {
+    "id": 5,
+    "category": "Clothing",
+    "title": "Men's Casual T-Shirt",
+    "image": "mens_casual_tshirt.jpg",
+    "description": "A comfortable and stylish t-shirt suitable for everyday wear.",
+    "color": "#9B59B6",
+    "background_color": "#d6b6e1"
+  },
+  {
+    "id": 6,
+    "category": "Clothing",
+    "title": "Women's Running Shoes",
+    "image": "womens_running_shoes.jpg",
+    "description": "High-performance running shoes designed for women with superior comfort and support.",
+    "color": "#9B59B6",
+    "background_color": "#d6b6e1"
+  },
+  {
+    "id": 7,
+    "category": "Food",
+    "title": "Organic Fruit Basket",
+    "image": "organic_fruit_basket.jpg",
+    "description": "A basket filled with a variety of fresh, organic fruits for a healthy snack option.",
+    "color": "#E74C3C",
+    "background_color": "#f4b8ab"
+  },
+  {
+    "id": 8,
+    "category": "Food",
+    "title": "Gourmet Chocolate Assortment",
+    "image": "gourmet_chocolate_assortment.jpg",
+    "description": "An assortment of gourmet chocolates made from premium ingredients, perfect for indulgence.",
+    "color": "#E74C3C",
+    "background_color": "#f4b8ab"
+  },
+  {
+    "id": 9,
+    "category": "Health",
+    "title": "Protein Powder",
+    "image": "protein_powder.jpg",
+    "description": "A supplement rich in protein, ideal for muscle recovery and growth.",
+    "color": "#1ABC9C",
+    "background_color": "#a7e9d6"
+  },
+  {
+    "id": 10,
+    "category": "Education",
+    "title": "Language Learning Software",
+    "image": "language_learning_software.jpg",
+    "description": "Interactive software designed to help users learn a new language efficiently.",
+    "color": "#3498DB",
+    "background_color": "#a6c9f1"
+  },
+  {
+    "id": 11,
+    "category": "Clothing",
+    "title": "Designer Handbag",
+    "image": "designer_handbag.jpg",
+    "description": "A luxury handbag crafted from high-quality materials, perfect for any occasion.",
+    "color": "#9B59B6",
+    "background_color": "#d6b6e1"
+  },
+  {
+    "id": 12,
+    "category": "Food",
+    "title": "Artisanal Cheese Selection",
+    "image": "artisanal_cheese_selection.jpg",
+    "description": "A curated selection of artisanal cheeses from around the world, perfect for cheese enthusiasts.",
+    "color": "#E74C3C",
+    "background_color": "#f4b8ab"
+  }
+]
