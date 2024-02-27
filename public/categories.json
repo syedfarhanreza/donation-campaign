@@ -8,7 +8,7 @@
         "background_color": "#CED5FF",
         "button_color": "#A7B1FF",
         "text_color": "#1007FA",
-        "donation_amount": 10
+        "donation_amount": 160
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "background_color": "#FFE3E9",
         "button_color": "#FFD1DC",
         "text_color": "#F83B72",
-        "donation_amount": 15
+        "donation_amount": 150
     },
     {
         "id": 3,
@@ -30,7 +30,7 @@
         "background_color": "#DFF9DF",
         "button_color": "#C3F0C2",
         "text_color": "#34B335",
-        "donation_amount": 20
+        "donation_amount": 290
     },
     {
         "id": 4,
@@ -41,7 +41,7 @@
         "background_color": "#FFDBA4",
         "button_color": "#FFC16B",
         "text_color": "#F95E00",
-        "donation_amount": 25
+        "donation_amount": 205
     },
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "background_color": "#CED5FF",
         "button_color": "#A7B1FF",
         "text_color": "#1007FA",
-        "donation_amount": 10
+        "donation_amount": 310
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
         "background_color": "#FFE3E9",
         "button_color": "#FFD1DC",
         "text_color": "#F83B72",
-        "donation_amount": 30
+        "donation_amount": 250
     },
     {
         "id": 7,
@@ -74,7 +74,7 @@
         "background_color": "#DFF9DF",
         "button_color": "#C3F0C2",
         "text_color": "#34B335",
-        "donation_amount": 40
+        "donation_amount": 140
     },
     {
         "id": 8,
@@ -85,7 +85,7 @@
         "background_color": "#FFDBA4",
         "button_color": "#FFC16B",
         "text_color": "#F95E00",
-        "donation_amount": 50
+        "donation_amount": 250
     },
     {
         "id": 9,
@@ -96,7 +96,7 @@
         "background_color": "#CED5FF",
         "button_color": "#A7B1FF",
         "text_color": "#1007FA",
-        "donation_amount": 10
+        "donation_amount": 110
     },
     {
         "id": 10,
@@ -107,7 +107,7 @@
         "background_color": "#FFE3E9",
         "button_color": "#FFD1DC",
         "text_color": "#F83B72",
-        "donation_amount": 20
+        "donation_amount": 220
     },
     {
         "id": 11,
@@ -118,7 +118,7 @@
         "background_color": "#DFF9DF",
         "button_color": "#C3F0C2",
         "text_color": "#34B335",
-        "donation_amount": 100
+        "donation_amount": 190
     },
     {
         "id": 12,
@@ -129,6 +129,6 @@
         "background_color": "#FFDBA4",
         "button_color": "#FFC16B",
         "text_color": "#F95E00",
-        "donation_amount": 30
+        "donation_amount": 260
     }
 ]
