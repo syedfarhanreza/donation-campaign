@@ -1,122 +1,134 @@
 [
-  {
-      "id": 1,
-      "category": "Health",
-      "title": "First Aid Kit",
-      "image": "https://i.ibb.co/gMLsRnD/images-3.jpg",
-      "description": "A compact first aid kit containing essential medical supplies for emergencies.",
-      "background_color": "#CED5FF",
-      "button_color": "#A7B1FF",
-      "text_color": "#1007FA"
-  },
-  {
-      "id": 2,
-      "category": "Education",
-      "title": "Educational Books Set",
-      "image": "https://i.ibb.co/CBqGj5g/images-1.jpg",
-      "description": "A set of educational books covering various subjects for self-study or classroom use.",
-      "background_color": "#FFE3E9",
-      "button_color": "#FFD1DC",
-      "text_color": "#F83B72"
-  },
-  {
-      "id": 3,
-      "category": "Clothing",
-      "title": "Men's Casual T-Shirt",
-      "image": "https://i.ibb.co/g32cmH9/images.jpg",
-      "description": "A comfortable and stylish t-shirt suitable for everyday wear.",
-      "background_color": "#DFF9DF",
-      "button_color": "#C3F0C2",
-      "text_color": "#34B335"
-  },
-  {
-      "id": 4,
-      "category": "Food",
-      "title": "Organic Fruit Basket",
-      "image": "https://i.ibb.co/PGxMCJB/images-2.jpg",
-      "description": "A basket filled with a variety of fresh, organic fruits for a healthy snack option.",
-      "background_color": "#FFDBA4",
-      "button_color": "#FFC16B",
-      "text_color": "#F95E00"
-  },
-  {
-      "id": 5,
-      "category": "Health",
-      "title": "Multivitamins",
-      "image": "https://i.ibb.co/gMLsRnD/images-3.jpg",
-      "description": "A daily supplement providing essential vitamins and minerals for overall health.",
-      "background_color": "#CED5FF",
-      "button_color": "#A7B1FF",
-      "text_color": "#3498DB"
-  },
-  {
-      "id": 6,
-      "category": "Education",
-      "title": "STEM Learning Kit",
-      "image": "https://i.ibb.co/CBqGj5g/images-1.jpg",
-      "description": "A kit containing materials and instructions for hands-on STEM (Science, Technology, Engineering, Mathematics) experiments.",
-      "background_color": "#FFE3E9",
-      "button_color": "#FFD1DC",
-      "text_color": "#F83B72"
-  },
-  {
-      "id": 7,
-      "category": "Clothing",
-      "title": "Women's Running Shoes",
-      "image": "https://i.ibb.co/g32cmH9/images.jpg",
-      "description": "High-performance running shoes designed for women with superior comfort and support.",
-      "background_color": "#DFF9DF",
-      "button_color": "#C3F0C2",
-      "text_color": "#34B335"
-  },
-  {
-      "id": 8,
-      "category": "Food",
-      "title": "Gourmet Chocolate Assortment",
-      "image": "https://i.ibb.co/PGxMCJB/images-2.jpg",
-      "description": "An assortment of gourmet chocolates made from premium ingredients, perfect for indulgence.",
-      "background_color": "#FFDBA4",
-      "button_color": "#FFC16B",
-      "text_color": "#F95E00"
-  },
-  {
-      "id": 9,
-      "category": "Health",
-      "title": "Protein Powder",
-      "image": "https://i.ibb.co/gMLsRnD/images-3.jpg",
-      "description": "A supplement rich in protein, ideal for muscle recovery and growth.",
-      "background_color": "#CED5FF",
-      "button_color": "#A7B1FF",
-      "text_color": "#1007FA"
-  },
-  {
-      "id": 10,
-      "category": "Education",
-      "title": "Language Learning Software",
-      "image": "https://i.ibb.co/CBqGj5g/images-1.jpg",
-      "description": "Interactive software designed to help users learn a new language efficiently.",
-      "background_color": "#FFE3E9",
-      "button_color": "#FFD1DC",
-      "text_color": "#F83B72"
-  },
-  {
-      "id": 11,
-      "category": "Clothing",
-      "title": "Designer Handbag",
-      "image": "https://i.ibb.co/g32cmH9/images.jpg",
-      "description": "A luxury handbag crafted from high-quality materials, perfect for any occasion.",
-      "background_color": "#DFF9DF",
-      "button_color": "#C3F0C2",
-      "text_color": "#34B335"
-  },
-  {
-      "id": 12,
-      "category": "Food",
-      "title": "Artisanal Cheese Selection",
-      "image": "https://i.ibb.co/PGxMCJB/images-2.jpg",
-      "description": "A curated selection of artisanal cheeses from around the world, perfect for cheese enthusiasts.",
-      "background_color": "#FFDBA4",
-      "button_color": "#FFC16B",
-      "text_color": "#F95E00"
-  }
+    {
+        "id": 1,
+        "category": "Health",
+        "title": "First Aid Kit",
+        "image": "https://i.ibb.co/gMLsRnD/images-3.jpg",
+        "description": "A compact first aid kit containing essential medical supplies for emergencies. Includes bandages, antiseptic wipes, scissors, tweezers, adhesive tape, sterile gauze pads, instant cold packs, and a first aid guide.",
+        "background_color": "#CED5FF",
+        "button_color": "#A7B1FF",
+        "text_color": "#1007FA",
+        "donation_amount": 10
+    },
+    {
+        "id": 2,
+        "category": "Education",
+        "title": "Educational Books Set",
+        "image": "https://i.ibb.co/CBqGj5g/images-1.jpg",
+        "description": "A set of educational books covering various subjects for self-study or classroom use. Subjects include mathematics, science, history, literature, and geography. Each book is richly illustrated and designed to engage learners of all ages.",
+        "background_color": "#FFE3E9",
+        "button_color": "#FFD1DC",
+        "text_color": "#F83B72",
+        "donation_amount": 15
+    },
+    {
+        "id": 3,
+        "category": "Clothing",
+        "title": "Men's Casual T-Shirt",
+        "image": "https://i.ibb.co/g32cmH9/images.jpg",
+        "description": "A comfortable and stylish t-shirt suitable for everyday wear. Made from high-quality cotton material, this t-shirt features a modern design with a relaxed fit, making it perfect for casual outings or lounging at home.",
+        "background_color": "#DFF9DF",
+        "button_color": "#C3F0C2",
+        "text_color": "#34B335",
+        "donation_amount": 20
+    },
+    {
+        "id": 4,
+        "category": "Food",
+        "title": "Organic Fruit Basket",
+        "image": "https://i.ibb.co/PGxMCJB/images-2.jpg",
+        "description": "A basket filled with a variety of fresh, organic fruits for a healthy snack option. Includes apples, oranges, bananas, grapes, strawberries, and kiwis sourced from local organic farms. Perfect for individuals and families looking to incorporate more nutritious choices into their diet.",
+        "background_color": "#FFDBA4",
+        "button_color": "#FFC16B",
+        "text_color": "#F95E00",
+        "donation_amount": 25
+    },
+    {
+        "id": 5,
+        "category": "Health",
+        "title": "Multivitamins",
+        "image": "https://i.ibb.co/gMLsRnD/images-3.jpg",
+        "description": "A daily supplement providing essential vitamins and minerals for overall health. Formulated to support immune function, energy levels, and overall well-being. Contains a balanced blend of vitamins A, C, D, E, B vitamins, and key minerals like zinc and magnesium.",
+        "background_color": "#CED5FF",
+        "button_color": "#A7B1FF",
+        "text_color": "#1007FA",
+        "donation_amount": 10
+    },
+    {
+        "id": 6,
+        "category": "Education",
+        "title": "STEM Learning Kit",
+        "image": "https://i.ibb.co/CBqGj5g/images-1.jpg",
+        "description": "A kit containing materials and instructions for hands-on STEM (Science, Technology, Engineering, Mathematics) experiments. Engage in activities such as building circuits, exploring robotics, conducting chemistry experiments, and more. Designed to foster creativity, critical thinking, and problem-solving skills.",
+        "background_color": "#FFE3E9",
+        "button_color": "#FFD1DC",
+        "text_color": "#F83B72",
+        "donation_amount": 30
+    },
+    {
+        "id": 7,
+        "category": "Clothing",
+        "title": "Women's Running Shoes",
+        "image": "https://i.ibb.co/g32cmH9/images.jpg",
+        "description": "High-performance running shoes designed for women with superior comfort and support. Features include breathable mesh uppers, cushioned midsoles, and durable rubber outsoles for optimal traction. Perfect for jogging, running, or everyday wear.",
+        "background_color": "#DFF9DF",
+        "button_color": "#C3F0C2",
+        "text_color": "#34B335",
+        "donation_amount": 40
+    },
+    {
+        "id": 8,
+        "category": "Food",
+        "title": "Gourmet Chocolate Assortment",
+        "image": "https://i.ibb.co/PGxMCJB/images-2.jpg",
+        "description": "An assortment of gourmet chocolates made from premium ingredients, perfect for indulgence. Includes a variety of flavors such as dark chocolate, milk chocolate, white chocolate, and specialty flavors like caramel, sea salt, and hazelnut. Each piece is crafted with care by skilled chocolatiers.",
+        "background_color": "#FFDBA4",
+        "button_color": "#FFC16B",
+        "text_color": "#F95E00",
+        "donation_amount": 50
+    },
+    {
+        "id": 9,
+        "category": "Health",
+        "title": "Protein Powder",
+        "image": "https://i.ibb.co/gMLsRnD/images-3.jpg",
+        "description": "A supplement rich in protein, ideal for muscle recovery and growth. Made from high-quality whey protein isolate, this powder is easily digestible and perfect for post-workout replenishment. Provides a convenient way to meet daily protein needs.",
+        "background_color": "#CED5FF",
+        "button_color": "#A7B1FF",
+        "text_color": "#1007FA",
+        "donation_amount": 10
+    },
+    {
+        "id": 10,
+        "category": "Education",
+        "title": "Language Learning Software",
+        "image": "https://i.ibb.co/CBqGj5g/images-1.jpg",
+        "description": "Interactive software designed to help users learn a new language efficiently. Features include interactive lessons, vocabulary exercises, pronunciation guides, and cultural insights. Suitable for beginners to advanced learners, this software makes language learning fun and engaging.",
+        "background_color": "#FFE3E9",
+        "button_color": "#FFD1DC",
+        "text_color": "#F83B72",
+        "donation_amount": 20
+    },
+    {
+        "id": 11,
+        "category": "Clothing",
+        "title": "Designer Handbag",
+        "image": "https://i.ibb.co/g32cmH9/images.jpg",
+        "description": "A luxury handbag crafted from high-quality materials, perfect for any occasion. Features include genuine leather construction, spacious interior compartments, and elegant hardware accents. Elevate your style with this timeless accessory.",
+        "background_color": "#DFF9DF",
+        "button_color": "#C3F0C2",
+        "text_color": "#34B335",
+        "donation_amount": 100
+    },
+    {
+        "id": 12,
+        "category": "Food",
+        "title": "Artisanal Cheese Selection",
+        "image": "https://i.ibb.co/PGxMCJB/images-2.jpg",
+        "description": "A curated selection of artisanal cheeses from around the world, perfect for cheese enthusiasts. Includes a variety of cheese types such as soft, semi-soft, hard, and blue cheeses. Pair with crackers, fruits, and wines for an exquisite culinary experience.",
+        "background_color": "#FFDBA4",
+        "button_color": "#FFC16B",
+        "text_color": "#F95E00",
+        "donation_amount": 30
+    }
 ]
