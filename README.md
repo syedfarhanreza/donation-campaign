@@ -1,4 +1,4 @@
-![donation campaign donation](https://github.com/syedfarhanreza/donation-campaign/assets/95230278/b63a5c66-7f93-44ee-83ea-776ccbbe7646)# Donation Campaign
+# Donation Campaign
 
 
 ## Screenshot
