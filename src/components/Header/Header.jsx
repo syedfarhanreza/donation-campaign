@@ -16,7 +16,7 @@ const Header = () => {
         <div className="navbar bg-base-100 w-11/12 mx-auto">
             <div className="flex-1">
                 <Link className="btn btn-ghost text-xl" to='/'>
-                    <img className='w-64 h-16' src= {logo} alt="" />
+                    <img className='w-64 h-10' src= {logo} alt="" />
                 </Link>
             </div>
             <div className="flex-none">
